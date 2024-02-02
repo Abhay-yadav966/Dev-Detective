@@ -4,3 +4,10 @@ Dev Detective is a web-based application that allows you to search for GitHub us
 ## Features
 - User Profile Search:
     - Enter a GitHub username to search for user profiles.
+    - View detailed user information, including name, bio, location, and more.
+- Dark and Light Mode:
+    - Toggle between dark and light modes for a visually appealing interface.
+- Responsive Design:
+    - The app is designed to work seamlessly on various devices, including desktop and mobile.
+## Screenshots
+
