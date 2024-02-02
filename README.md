@@ -10,4 +10,5 @@ Dev Detective is a web-based application that allows you to search for GitHub us
 - Responsive Design:
     - The app is designed to work seamlessly on various devices, including desktop and mobile.
 ## Screenshots
+![Screenshot (206)](https://github.com/Abhay-yadav966/Dev-Detective/assets/115336330/0b31f85a-2558-4659-89f7-f6777ab7537f)
 
