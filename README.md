@@ -22,6 +22,7 @@ Dev Detective is a web-based application that allows you to search for GitHub us
    - Enjoy a customized visual experience.
 ## Dark and Light Mode
 Dev Detective offers a dynamic dark and light mode for user customization. Click the mode toggle button in the top right corner to switch between the two modes.
-
+## Contributions
+Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
 
 
